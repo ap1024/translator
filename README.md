@@ -3,11 +3,11 @@
 
 # Install
 
-git clone https://github.com/sikasjc/translator.git
+    git clone https://github.com/sikasjc/translator.git
 
-sudo mv ./translator.py /usr/local/bin/tr
+    sudo mv ./translator.py /usr/local/bin/tr
 
-sudo chmod +x /usr/local/bin/tr
+    sudo chmod +x /usr/local/bin/tr
 
 # Usage
 
