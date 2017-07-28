@@ -27,7 +27,9 @@ tr [word]
     
     ----------web explain----------
     
-    python: 蟒蛇,Python,蟒属 Burmese Python: 缅甸蟒,缅甸蟒,黄金蟒 Python regius: 球蟒,球蟒
+    python: 蟒蛇,Python,蟒属 
+    Burmese Python: 缅甸蟒,缅甸蟒,黄金蟒 
+    Python regius: 球蟒,球蟒
     ---------------------------------
 
 tr [sentence] 
