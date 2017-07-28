@@ -14,11 +14,11 @@ import random
 import hashlib
 
 class Translator:
-    appKey = '0b8802eb86c06476'
+    appKey = ''
     api = 'https://openapi.youdao.com/api'
     translatorfrom = 'auto'
     translatorto = 'auto'
-    key = 'dsAkIQlO9Pt7ThlmWISu2O8GBgXJbAvu'
+    key = ''
     content = None
 
     def __init__(self, argv):
