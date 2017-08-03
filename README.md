@@ -5,17 +5,17 @@
 
     git clone https://github.com/sikasjc/translator.git
 
-    sudo mv ./translator.py /usr/local/bin/tr
+    sudo mv ./translator.py /usr/local/bin/tran
 
-    sudo chmod +x /usr/local/bin/tr
+    sudo chmod +x /usr/local/bin/tran
 
 # Usage
 
 ### Modify the value of the appKey and key.
 
-tr [word]
+tran [word]
 
-    >>> tr python
+    >>> tran python
 
     ----------translation----------
     
@@ -32,9 +32,9 @@ tr [word]
     Python regius: 球蟒,球蟒
     ---------------------------------
 
-tr [sentence] 
+tran [sentence] 
     
-    >>> tr I like walking
+    >>> tran I like walking
 
     ----------translation----------
     
